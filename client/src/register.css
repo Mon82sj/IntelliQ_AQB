@@ -1,0 +1,103 @@
+    .register-head{
+        -webkit-background-clip:text;
+        background-clip: text;
+        color:transparent;
+        background-image:url(home2.jpg);
+        text-transform: uppercase;
+        font-size: 40px;
+        font-weight: 900;
+    }
+    
+    .register-field{
+            border:2px solid rgb(48, 199, 236);
+            width:60%;
+            height: 450px;
+            margin-top: 7%;
+            background-color: white;
+            box-shadow: 4px 18px 20px grey;
+            border-radius: 15px;      
+    }
+    
+    .register-div{
+            height: max-content;
+            
+    }
+
+    .register-legend{
+        font-size: 30px;
+        -webkit-background-clip:text;
+        background-clip: text;
+        color:transparent;
+        background-image:url(home2.jpg);
+        font-weight: bolder;
+    }
+    
+    .table-register{
+        margin-top: -25%;
+    }
+    
+    .register-data{
+        font-size: larger;
+        font-weight: bolder;
+        color:rgb(48, 199, 236);
+        padding: 10px;
+        text-transform: uppercase;
+        text-align: justify;
+    }
+    
+    .register-input{
+        border:0.5px solid rgb(48, 199, 236);
+        padding: 15px;
+        width: 250px;
+    }
+    
+    .register-input:hover{
+        border:0.5px solid rgb(48, 199, 236);
+        padding: 15px;
+        width: 250px;
+    }
+    
+    .register-input-select{
+        border:0.5px solid rgb(48, 199, 236);
+        padding: 15px;
+        width: 250px;
+        background-color: white;
+        font-size: large;
+        color:rgb(48, 199, 236);
+    }
+    
+    .register-btn{
+        padding:20px;
+        text-transform:uppercase;
+        font-weight: bolder;
+        color:white;
+        background-color:rgb(48, 199, 236);
+        font-size: 20px;
+        border:0.3px solid rgb(48, 199, 236);
+        border-radius: 2px solid rgb(48, 199, 236);
+        margin-left: 7px;
+        margin-right: 4px;
+        margin-top: 4px;
+        margin-bottom: 4px;
+        box-shadow: 4px 8px 09px rgb(197, 194, 194);
+    }
+    
+    .register-btn:hover{
+        padding:20px;
+        text-transform:uppercase;
+        font-weight: bolder;
+        color:rgb(48, 199, 236);
+        background-color:white;
+        font-size: 20px;
+        border:0.3px solid rgb(48, 199, 236);
+        border-radius: 2px;
+        margin-left: 4px;
+        margin-right: 4px;
+        margin-top: 4px;
+        margin-bottom: 4px;
+    }
+
+    p{
+        color:rgb(0, 147, 184);
+        font-size: 17px;
+    }

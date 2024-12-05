@@ -1,0 +1,111 @@
+.plantable{
+    margin-top:0%;
+    text-align: left;
+}
+p{
+    text-align: justify;
+    line-height: 24px;
+    font-size: large;
+}
+
+.learnfield{
+    margin-top:5%;    
+    border:2px solid rgb(48, 199, 236);
+    width:80%;
+    height: 550px;
+    background-color: white;
+    box-shadow: 4px 18px 20px grey;
+    border-radius: 15px;
+}
+
+.learn
+{
+    height:600px;
+}
+
+.learn-form{
+    -webkit-background-clip:text;
+    background-clip: text;
+    color:transparent;
+    background-image:url(home2.jpg);
+}
+.learntabledata{
+    background-color: white;
+
+}
+.tablelabel{
+    font-size: 20px;
+    margin-top: 10px;
+    color:rgb(48, 199, 236);
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.learning_plan{
+    width:800px;
+    float:center;
+    overflow:auto;
+    height:80%;
+}
+
+.form-legend{
+    font-size: 30px;
+-webkit-background-clip:text;
+background-clip: text;
+color:transparent;
+background-image:url(home2.jpg);
+font-weight: bolder;
+}
+
+.form-input{
+    border:0.5px solid rgb(48, 199, 236);
+    padding: 15px;
+    width: 250px;
+    color:rgb(48, 199, 236);
+    font-size: large;
+}
+
+.form-input::placeholder{
+    padding: 15px;
+    width: 250px;
+    color:rgb(48, 199, 236)
+}
+
+.form-btn{
+    padding:20px;
+    text-transform:uppercase;
+    font-weight: bolder;
+    color:white;
+    background-color:rgb(48, 199, 236);
+    font-size: 20px;
+    border:0.3px solid rgb(48, 199, 236);
+    border-radius: 2px solid rgb(48, 199, 236);
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    box-shadow: 4px 8px 09px rgb(197, 194, 194);
+}
+
+.form-btn:hover{
+    padding:20px;
+    text-transform:uppercase;
+    font-weight: bolder;
+    color:rgb(48, 199, 236);
+    background-color:white;
+    font-size: 20px;
+    border:0.3px solid rgb(48, 199, 236);
+    border-radius: 2px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+select{
+    background-color: white;
+    color:rgb(48, 199, 236);
+    border: 0.3px solid rgb(48, 199, 236);
+    padding:15px;
+    font-size: large;
+}

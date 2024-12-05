@@ -1,0 +1,121 @@
+.list-group-items{
+    list-style-type:lower-alpha;
+}
+.form-label{
+    font-size: larger;
+    font-weight: bolder;
+    color:rgb(48, 199, 236);
+    padding: 10px;
+    text-transform: uppercase;
+    text-align: justify;
+    margin-top: 27px;
+}
+.mb-3{
+    margin-top: 27px;
+}
+.form-question{
+    margin-top: 40px;
+    margin-left: 60px;
+}
+.form-field{
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    border:2px solid rgb(48, 199, 236);
+    width:80%;
+    height: 550px;
+    background-color: white;
+    box-shadow: 4px 18px 20px grey;
+    border-radius: 15px; 
+}
+
+.form-control,.form-select{
+    margin-left: 20px;
+    padding: 10px;
+    background-color: white;
+    border: 0.3px solid rgb(48, 199, 236);
+    padding:10px;
+    background-color: white;
+    border:0.3px solid rgb(48, 199, 236);
+    color:rgb(48, 199, 236);
+    text-decoration: none;
+    font-size: large;
+}
+
+input[type="file"]::file-selector-button{
+    padding:10px;
+    background-color: white;
+    border:0.3px solid rgb(48, 199, 236);
+    color:rgb(48, 199, 236);
+    text-decoration: none;
+    font-size: large;
+}
+
+input[type="file"]::file-selector-button:hover{
+    padding:10px;
+    background-color:rgb(48, 199, 236);
+    border:0.3px solid rgb(48, 199, 236);
+    color:white;
+    text-decoration: none;
+    font-size: large;
+}
+
+input[type="file"]::-webkit-file-name-tetx{
+    padding:10px;
+    background-color: white;
+    border:0.3px solid rgb(48, 199, 236);
+    color:rgb(48, 199, 236);
+    text-decoration: none;
+}
+
+.admin-btn{
+    margin-left: 45%;
+    margin-top: 2%;
+}
+
+.admin-btn:hover{
+    background-color: white;
+    color: rgb(48, 199, 236);
+    margin-left: 45%;
+    margin-top: 2%;
+}
+
+ol,li{
+    color:rgb(48, 199, 236);
+}
+
+.admin{
+    padding:20px;
+    text-transform:uppercase;
+    font-weight: bolder;
+    color:white;
+    background-color:rgb(48, 199, 236);
+    font-size: 20px;
+    border:0.3px solid rgb(48, 199, 236);
+    border-radius: 2px solid rgb(48, 199, 236);
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    box-shadow: 4px 8px 09px rgb(197, 194, 194);
+}
+
+.admin:hover{
+    padding:20px;
+    text-transform:uppercase;
+    font-weight: bolder;
+    color:rgb(48, 199, 236);
+    background-color:white;
+    font-size: 20px;
+    border:0.3px solid rgb(48, 199, 236);
+    border-radius: 2px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.question-head{
+    text-transform: uppercase;
+    font-weight: bolder;
+}

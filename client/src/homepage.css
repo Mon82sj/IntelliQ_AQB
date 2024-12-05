@@ -1,0 +1,71 @@
+.home-field{
+    background-color:white;
+    background-position: center;
+    background-repeat:repeat-x;
+    margin-top: 7%;
+
+}
+
+.home-head{
+    margin-top: 3%;
+    text-transform: uppercase;
+    font-size: 60px;
+    font-weight:900;
+    -webkit-background-clip:text;
+    background-clip: text;
+    color:transparent;
+    background-image:url(home2.jpg);
+}
+
+.home-legend{
+    font-size:30px;
+    font-weight: bold;
+    -webkit-background-clip:text;
+    background-clip: text;
+    color:transparent;
+    background-image:url(home.jpg);
+}
+
+
+.home-btn:not(.btn){
+    padding:30px;
+    text-transform:uppercase;
+    font-weight: bolder;
+    color:white;
+    background-color:rgb(48, 199, 236);
+    font-size: 20px;
+    border:0.3px solid rgb(48, 199, 236);
+    border-radius: 2px solid rgb(48, 199, 236);
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    box-shadow: 4px 8px 09px rgb(197, 194, 194);
+}
+
+.home-btn:hover{
+    padding:30px;
+    text-transform:uppercase;
+    font-weight: bolder;
+    color:rgb(48, 199, 236);
+    background-color:white;
+    font-size: 20px;
+    border:0.3px solid rgb(48, 199, 236);
+    border-radius: 2px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.home-field{
+    border:2px solid rgb(48, 199, 236);
+    width:90%;
+    height: 450px;
+    background-color: white;
+    box-shadow: 4px 18px 20px grey;
+    border-radius: 15px;
+}
+
+.home-div{
+    height: max-content;
+}

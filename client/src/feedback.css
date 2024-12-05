@@ -1,0 +1,16 @@
+.feedback-field{
+    width:80%;
+    height:400px;
+}
+.feedbackarea{
+    top: 20px;
+}
+
+.feedback-label{
+    font-size: larger;
+    
+}
+
+.feedback-btn{
+    margin-top: 30%;
+}
